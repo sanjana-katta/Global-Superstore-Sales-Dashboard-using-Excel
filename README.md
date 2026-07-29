@@ -202,7 +202,7 @@ Detailed customer-level analysis using Power BI Drill-through functionality.
 # 📷 Dashboard Preview
 
 ### Excel Dashboard
-
+![Excel Dashboard](<Excel Dashboard/Screenshot 2026-07-29 204728.png>)
 ![Excel Dashboard](<Excel Dashboard/Dashboard Screenshots.png>)
 
 
