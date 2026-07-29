@@ -216,9 +216,12 @@ Insert SQL Query Screenshot
 
 ### Power BI Dashboard
 
-```
-Insert Power BI Dashboard Screenshot
-```
+![Power BI - Sales Dashboard](<Power BI Dashboard/dashboard screenshot (1).png>)
+![Power BI - Profit Dashboard](<Power BI Dashboard/dashboard screenshot (2).png>)
+![Power BI - Customer Dashboard](<Power BI Dashboard/dashboard screenshot (3).png>)
+![Power BI - Interactive Dashboard](<Power BI Dashboard/dashboard screenshot (4).png>)
+![Power BI - Overview 1](<Power BI Dashboard/dashboard screenshot (5).png>)
+![Power BI - Overview 2](<Power BI Dashboard/dashboard screenshot (6).png>)
 
 ---
 
