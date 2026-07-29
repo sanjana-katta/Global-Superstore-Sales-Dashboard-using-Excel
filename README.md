@@ -216,12 +216,12 @@ Insert SQL Query Screenshot
 
 ### Power BI Dashboard
 
-![Power BI - Sales Dashboard](<Power BI Dashboard/dashboard screenshot (1).png>)
-![Power BI - Profit Dashboard](<Power BI Dashboard/dashboard screenshot (2).png>)
-![Power BI - Customer Dashboard](<Power BI Dashboard/dashboard screenshot (3).png>)
-![Power BI - Interactive Dashboard](<Power BI Dashboard/dashboard screenshot (4).png>)
-![Power BI - Overview 1](<Power BI Dashboard/dashboard screenshot (5).png>)
-![Power BI - Overview 2](<Power BI Dashboard/dashboard screenshot (6).png>)
+![Power BI - Sales Dashboard](<Power BI Dashboard/powerbi-sales.png>)
+![Power BI - Profit Dashboard](<Power BI Dashboard/powerbi-profit.png>)
+![Power BI - Customer Dashboard](<Power BI Dashboard/powerbi-customer.png>)
+![Power BI - Interactive Dashboard](<Power BI Dashboard/powerbi-interactive.png>)
+![Power BI - Overview 1](<Power BI Dashboard/powerbi-overview1.png>)
+![Power BI - Overview 2](<Power BI Dashboard/powerbi-overview2.png>)
 
 ---
 
