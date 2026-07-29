@@ -200,28 +200,20 @@ Detailed customer-level analysis using Power BI Drill-through functionality.
 ---
 
 # 📷 Dashboard Preview
-![Dashboard Preview](<Excel Dashboard/Dashboard Screenshots.png>)
-
-
 
 ### Excel Dashboard
 
 ![Excel Dashboard](<Excel Dashboard/Dashboard Screenshots.png>)
 
-### SQL Analysis
-
-```
-Insert SQL Query Screenshot
-```
 
 ### Power BI Dashboard
-
-![Power BI - Sales Dashboard](<Power BI Dashboard/powerbi-sales.png>)
-![Power BI - Profit Dashboard](<Power BI Dashboard/powerbi-profit.png>)
-![Power BI - Customer Dashboard](<Power BI Dashboard/powerbi-customer.png>)
-![Power BI - Interactive Dashboard](<Power BI Dashboard/powerbi-interactive.png>)
 ![Power BI - Overview 1](<Power BI Dashboard/powerbi-overview1.png>)
 ![Power BI - Overview 2](<Power BI Dashboard/powerbi-overview2.png>)
+![Power BI - Sales Dashboard](<Power BI Dashboard/powerbi-sales.png>)
+![Power BI - Profit Dashboard](<Power BI Dashboard/powerbi-profit.png>)
+![Power BI - Interactive Dashboard](<Power BI Dashboard/powerbi-interactive.png>)
+![Power BI - Customer Dashboard](<Power BI Dashboard/powerbi-customer.png>)
+
 
 ---
 
