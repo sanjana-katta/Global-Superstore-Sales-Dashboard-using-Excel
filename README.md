@@ -200,13 +200,13 @@ Detailed customer-level analysis using Power BI Drill-through functionality.
 ---
 
 # 📷 Dashboard Preview
-![Dashboard Preview](Excel Dashboard/Dashboard Screenshots.png)
+![Dashboard Preview](<Excel Dashboard/Dashboard Screenshots.png>)
 
 
 
 ### Excel Dashboard
 
-![Excel Dashboard](Excel Dashboard/Dashboard Screenshots.png)
+![Excel Dashboard](<Excel Dashboard/Dashboard Screenshots.png>)
 
 ### SQL Analysis
 
