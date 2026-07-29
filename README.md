@@ -46,13 +46,10 @@ Global-Superstore-Sales-Analysis/
 │
 ├── SQL Analysis/
 │   ├── SQL Queries.sql
-│   ├── Business Questions.pdf
-│   └── Insights.md
 │
 ├── Power BI Dashboard/
 │   ├── Global Superstore.pbix
 │   ├── Dashboard Screenshots
-│   └── Measures.md
 │
 └── README.md
 ```
@@ -203,8 +200,9 @@ Detailed customer-level analysis using Power BI Drill-through functionality.
 ---
 
 # 📷 Dashboard Preview
+![Uploading Dashboard Screenshots (6).png…]()
 
-> Add screenshots of your dashboards here.
+
 
 ### Excel Dashboard
 
